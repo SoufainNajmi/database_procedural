@@ -3,15 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Ajouter un client</title>
-    <style>
-        body { font-family: Arial; background-color: #f4f6f7; display: flex; justify-content: center; align-items: center; height: 100vh; }
-        form { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px #ccc; width: 400px; }
-        h2 { text-align: center; }
-        label { display: block; margin-top: 10px; font-weight: bold; }
-        input { width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #aaa; border-radius: 5px; }
-        button { margin-top: 15px; width: 100%; padding: 10px; background: #2ecc71; border: none; color: white; border-radius: 5px; }
-        a { display: block; text-align: center; margin-top: 10px; color: #3498db; text-decoration: none; }
-    </style>
+    <link rel="stylesheet" href="/asset/ajou_client.css">
+   
 </head>
 <body>
 
