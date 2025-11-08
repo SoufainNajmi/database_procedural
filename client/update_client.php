@@ -40,14 +40,7 @@ if (isset($_POST['modifier'])) {
 <head>
     <meta charset="UTF-8">
     <title>Modifier le client</title>
-    <style>
-        body { font-family: Arial; background-color: #f4f6f7; display: flex; justify-content: center; align-items: center; height: 100vh; }
-        form { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px #ccc; width: 400px; }
-        label { display: block; margin-top: 10px; font-weight: bold; }
-        input { width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #aaa; border-radius: 5px; }
-        img { width: 80px; height: 80px; border-radius: 10px; margin: 10px auto; display: block; }
-        button { margin-top: 15px; width: 100%; padding: 10px; background: #3498db; color: white; border: none; border-radius: 5px; }
-    </style>
+    <link rel="stylesheet" href="/asset/update_client.css">
 </head>
 <body>
 <form method="POST" enctype="multipart/form-data">
